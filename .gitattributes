@@ -1,0 +1,2 @@
+*.pptm filter=lfs diff=lfs merge=lfs -text
+AN[[:space:]]OCEAN[[:space:]]WITHOUT[[:space:]]THE[[:space:]]SUN[[:space:]][Salvato[[:space:]]automaticamente].pptm filter=lfs diff=lfs merge=lfs -text
